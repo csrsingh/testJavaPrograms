@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class testArrayList {
 	public static void main(String[] args) {
-				// ArrayList = a resizable array
+				// ArrayList = a re-sizable array
 						//Elements can be added and removed after compilation phase
 						//store reference data types
 				ArrayList<String> food = new ArrayList<String>();				
