@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.math.*;
 
 public class Main {
-
+	//this is my first java program
 	public static void main(String[] args) {
 		int x=30;
 		int y=20;
