@@ -1,8 +1,6 @@
 package firstProgram;
-
 import java.util.Scanner;
 import java.math.*;
-
 
 public class Main {
 
@@ -12,9 +10,8 @@ public class Main {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("What is the day: ");
 		String day = scanner.nextLine();
-		int z=Math.max(x, y);
-		System.out.println(z);
-		
+		//int z=Math.max(x, y);
+		//System.out.println(z);		
 		switch(day) {
 		case "sunday" : System.out.println("this is sunday");
 		break;
@@ -23,8 +20,6 @@ public class Main {
 		case "tuesday" : System.out.println("this is tuesday");
 		break;
 		default : System.out.println("invalida day!");
-		}
-		
-		
+		}		
 	}
 }
