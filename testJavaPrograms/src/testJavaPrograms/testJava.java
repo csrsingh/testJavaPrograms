@@ -3,8 +3,7 @@ package testJavaPrograms;
 public class testJava {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World !");
-		System.out.println("Hey Bro");
+		System.out.println("Test JAVA");
 	}
 
 }
